@@ -23,11 +23,11 @@ STAR EGGS CENTRE is an established wholesale and retail egg distributor headquar
 - **Interactive Delivery & Distribution Network:** Real-time corridor radar covering 12 hubs across two states:
   - **Telangana Network (7 Hubs):** Adilabad (HQ), Hyderabad & Secunderabad, Warangal & Hanamkonda, Nizamabad, Karimnagar, Khammam, Mahbubnagar.
   - **Maharashtra Vidarbha Corridors (5 Hubs):** Nagpur, Akola, Yavatmal, Arni, Vani (Wani).
-- **Product Showcase:**
-  - Fresh Table Eggs (Daily harvest quality)
-  - Egg Trays & Bulk Crates (30-egg standard flats)
-  - Wholesale Commercial Supply (Hotels & restaurants)
-  - Eicher Full-Load Supply (High-capacity transport)
+- **Product Showcase (Exclusively White Eggs):**
+  - Fresh White Table Eggs (Daily harvest quality)
+  - White Egg Trays & Bulk Crates (30-egg standard flats)
+  - Wholesale White Egg Supply (Hotels & restaurants)
+  - Eicher Full-Load White Eggs (High-capacity transport)
 - **Direct WhatsApp Click-to-Chat:** Automatic prefilled messages for products, route deliveries, and general enquiries.
 - **Wholesale Enquiry Form:** Client-side validation with quick destination selection chips that seamlessly formats requests into WhatsApp.
 - **SEO & Performance:** Full semantic metadata, OpenGraph, dynamic sitemap (`sitemap.js`), crawler instructions (`robots.js`), and LocalBusiness JSON-LD schema.

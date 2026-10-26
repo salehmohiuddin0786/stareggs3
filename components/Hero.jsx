@@ -22,7 +22,7 @@ export default function Hero() {
             {/* Slogan Pill from Business Card */}
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white border border-brand-border shadow-sm text-xs sm:text-sm font-semibold text-brand-blue">
               <span className="flex h-2 w-2 rounded-full bg-brand-green animate-pulse" />
-              <span>Fresh Eggs</span>
+              <span>Fresh White Eggs</span>
               <span className="text-brand-yellow font-bold">★</span>
               <span>Healthy Family</span>
               <span className="text-brand-yellow font-bold">★</span>
@@ -31,7 +31,7 @@ export default function Hero() {
 
             {/* Main Headline */}
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black text-brand-dark tracking-tight leading-[1.15]">
-              Fresh Eggs.{" "}
+              Fresh White Eggs.{" "}
               <span className="text-brand-blue underline decoration-brand-yellow decoration-4 underline-offset-4">
                 Trusted Quality.
               </span>{" "}
@@ -40,7 +40,7 @@ export default function Hero() {
 
             {/* Subtitle */}
             <p className="text-base sm:text-lg text-brand-muted max-w-2xl mx-auto lg:mx-0 leading-relaxed">
-              Your dependable partner for farm-fresh table eggs, wholesale trays, and direct
+              Your dependable partner for farm-fresh white table eggs, 30-egg trays, and direct
               commercial distribution across Adilabad, Telangana, and Maharashtra Vidarbha Corridors.
             </p>
 
@@ -52,8 +52,8 @@ export default function Hero() {
               <span className="px-3 py-1 bg-brand-yellow text-brand-dark rounded-md text-xs font-black tracking-wide uppercase shadow-sm border border-yellow-300">
                 SUPPLY EICHER FULL LOADED EGGS
               </span>
-              <span className="px-3 py-1 bg-brand-green-light text-brand-green rounded-md text-xs font-bold border border-brand-green/20">
-                Adilabad HQ • Telangana &amp; Vidarbha Corridors
+              <span className="px-3 py-1 bg-white text-brand-green border border-brand-green/30 rounded-md text-xs font-bold uppercase shadow-sm">
+                100% Pure White Eggs
               </span>
             </div>
 

@@ -4,9 +4,9 @@ import { Leaf, ShieldCheck, Truck } from "lucide-react";
 const trustPillars = [
   {
     icon: Leaf,
-    title: "Fresh Eggs",
-    description: "Carefully handled eggs for everyday customers and businesses.",
-    tagline: "Natural & Clean",
+    title: "Fresh White Eggs",
+    description: "Carefully handled pure white eggs for everyday customers and businesses.",
+    tagline: "100% White Eggs",
     bgColor: "bg-brand-green-light",
     iconColor: "text-brand-green",
     borderColor: "hover:border-brand-green",

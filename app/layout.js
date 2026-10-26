@@ -2,9 +2,9 @@ import "./globals.css";
 import { siteConfig } from "@/lib/siteConfig";
 
 export const metadata = {
-  title: "STAR EGGS CENTRE | Wholesale & Retail Egg Supplier in Adilabad, Telangana & Vidarbha",
+  title: "STAR EGGS CENTRE | Wholesale & Retail White Egg Supplier in Adilabad, Telangana & Vidarbha",
   description:
-    "STAR EGGS CENTRE is Adilabad's trusted wholesale and retail egg supplier. Supplying farm-fresh table eggs, 30-egg crates, bulk commercial orders, and Eicher full-loaded egg supply across Telangana (Hyderabad, Warangal, Nizamabad, Karimnagar, Khammam, Mahbubnagar) and Maharashtra Vidarbha Corridors (Nagpur, Akola, Yavatmal, Arni, Wani).",
+    "STAR EGGS CENTRE is Adilabad's trusted wholesale and retail supplier specializing exclusively in fresh white eggs. Supplying farm-fresh white table eggs, 30-egg white crates, bulk commercial orders, and Eicher full-loaded egg supply across Telangana (Hyderabad, Warangal, Nizamabad, Karimnagar, Khammam, Mahbubnagar) and Maharashtra Vidarbha Corridors (Nagpur, Akola, Yavatmal, Arni, Wani).",
   keywords: [
     "Star Eggs Centre",
     "Star Eggs Adilabad",

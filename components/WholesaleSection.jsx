@@ -121,9 +121,9 @@ export default function WholesaleSection() {
                 <div className="absolute bottom-4 left-4 right-4 text-xs text-white">
                   <div className="bg-black/60 backdrop-blur-md p-3 rounded-xl border border-white/10 flex items-center justify-between">
                     <div>
-                      <p className="font-bold text-brand-yellow text-sm">Wholesale Crates Ready</p>
+                      <p className="font-bold text-brand-yellow text-sm">White Egg Crates Ready</p>
                       <p className="text-[11px] text-slate-300">
-                        Hygienic standard trays for seamless transport
+                        Hygienic standard white egg trays for seamless transport
                       </p>
                     </div>
                     <span className="px-2.5 py-1 bg-brand-green text-[10px] font-black uppercase rounded text-white">

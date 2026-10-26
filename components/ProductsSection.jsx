@@ -94,9 +94,9 @@ export default function ProductsSection() {
         {/* Bottom Notice on Transparent Sourcing */}
         <div className="mt-12 p-4 rounded-xl bg-white border border-brand-border text-center max-w-xl mx-auto shadow-sm">
           <p className="text-xs text-brand-muted">
-            <strong className="text-brand-dark">Direct Enquiry Pricing:</strong> Wholesale and
-            retail rates depend on market conditions and required quantity. Message us on WhatsApp
-            for today&apos;s best quotation.
+            <strong className="text-brand-dark">Pure White Eggs Speciality:</strong> We supply
+            exclusively fresh white table eggs in trays, crates, and bulk Eicher truckloads. Message
+            us on WhatsApp for today&apos;s best wholesale quotation.
           </p>
         </div>
       </div>
